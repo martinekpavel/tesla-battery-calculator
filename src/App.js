@@ -6,7 +6,7 @@ import TeslaBattery from "./containers/TeslaBattery";
 const counterDefaultVal = {
   speed: {
     title: "Speed",
-    unit: "mph",
+    unit: "km/h",
     step: 5,
     min: 45,
     max: 70,

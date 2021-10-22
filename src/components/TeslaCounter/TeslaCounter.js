@@ -8,7 +8,7 @@ const TeslaCounter = (props) => (
     <div className="tesla-counter__container cf">
       <div className="tesla-counter__item">
         <p className="tesla-counter__number">
-          {props.currentValue}
+          {props.initValues.title === 'Speed' ? Math.round(props.currentValue*1.609344) : props.currentValue}
           <span>{props.initValues.unit}</span>
         </p>
         <div className="tesla-counter__controls">

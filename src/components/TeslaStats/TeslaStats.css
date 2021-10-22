@@ -23,10 +23,10 @@
   font-size: 14px;
   font-weight: normal;
   font-family: "Roboto";
-  content: "MI";
+  content: "KM";
   position: absolute;
-  top: 8px;
-  right: 0;
+  bottom: 10px;
+  right: -5px;
 }
 .tesla-stats-icon {
   height: 20px;
