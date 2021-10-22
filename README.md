@@ -1,9 +1,9 @@
 # Building Tesla’s Battery Range Calculator with React & Redux
 
 This is app from FREE interactive course:
-https://www.educative.io/courses/building-teslas-battery-range-calculator-with-react-and-redux
+[https://www.educative.io/courses/building-teslas-battery-range-calculator-with-react-and-redux](https://www.educative.io/courses/building-teslas-battery-range-calculator-with-react-and-redux)
 
-Live demo: http://webovky.4fan.cz/tesla-battery-calc
+Live demo: [http://webovky.4fan.cz/tesla-battery-calc](http://webovky.4fan.cz/tesla-battery-calc)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -18,7 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
 
 ### `npm run build`
 
