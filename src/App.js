@@ -10,7 +10,6 @@ import TeslaWheelsContainer from "./containers/TeslaWheelsContainer";
 import TeslaNotice from "./components/TeslaNotice/TeslaNotice";
 import Header from "./components/Header/Header";
 import "./App.css";
-import "./containers/TeslaBattery.css";
 import appReducer from "./reducers/teslaRangeApp";
 
 const store = createStore(
@@ -27,7 +26,7 @@ class App extends Component {
           <div className="wrapper">
             <form className="tesla-battery">
               <h1>
-                <center>Range Per Charge</center>
+                Range Per Charge
               </h1>
               <TeslaCarContainer />
               <TeslaStatsContainer />
